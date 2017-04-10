@@ -1,5 +1,5 @@
 # spark-recommendation-engine
-###Item-based Collaborative Filtering for Recommending Amazon Products Using Apache Spark
+### Item-based Collaborative Filtering for Recommending Amazon Products Using Apache Spark
 
 **School:** Brandeis University  
 **Course:** COSI 129a: Introduction to Big Data Analysis  
